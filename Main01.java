@@ -20,7 +20,7 @@ public class Main01 {
     }
 
     if (count > 0) {
-      double average = sum / count;
+      double average = sum + count;
       System.out.println("Average of the entered numbers: " + average);
     }
 
